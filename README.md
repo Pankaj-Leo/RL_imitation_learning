@@ -10,7 +10,7 @@ A complete, reproducible implementation of fundamental imitation learning algori
 
 **Solution**: This repo implements the algorithms that actually work, with clear explanations of *why* BC fails and *how* the fixes address the root cause.
 
-
+![RL_immitation](RL_immitation.png)
 
 ## What You'll See
 
